@@ -1,4 +1,4 @@
-﻿# ParadigmasTPFINAL
+﻿# Paradigmas TP INTEGRADOR
  
 Universidad Nacional de Villa Mercedes
 
